@@ -4,11 +4,17 @@ title: "Research"
 classes: wide
 ---
 
-I completed my PhD in April 2020, under the supervision of Charlotte Deane and Gesine Reinert at the University of Oxford. [My thesis](https://ora.ox.ac.uk/objects/uuid:c28f1db6-0ce8-4d36-8bea-2ed310cbdb25) explored the uncertainty associated with protein interaction data and its effects on network analysis.
-
 ## Uncertainty in protein-protein interaction networks
 
 Protein-protein interaction data is obtained through a range of experimental techniques, each of which is subject to experimental error. When we build and analyse protein interaction networks using such data, we often ignore the uncertainty associated with it. It is therefore not always clear whether the conclusions we draw from such analysis are biologically relevant, or whether they are artifacts of the data. I am generally interested in studying the robustness of network analysis pipelines to data uncertainty.
+
+## Publication bias in protein-protein interaction networks
+
+PPI networks are usually built using data collected from a range of primary sources, including both low- and high-throughput studies. This data is subject to centralised curation and standardisation efforts such as [BioGRID](https://thebiogrid.org/). Data curation generally aims to minimise false positives i.e. erroneous interaction records, but little is done to account for false negatives and missing data.
+
+To date, nearly a quarter of PPI data comes from focussed, low-throughput studies. This means parts of the proteome that are of particular research interest, e.g. protein kinases, are overrepresented in interaction databases. Meanwhile, even in model organisms such as *S. cerevisiae* many protein pairs do not cooccur in a single study and so may have never been screened for interaction.
+
+This publication bias has a structural effect on PPI networks, as proteins of known function and specific research interest will have denser neighbourhoods. I work on developing methods for assessing the effect of this bias on downstream network analysis.
 
 ## Robust construction of gene co-expression networks
 

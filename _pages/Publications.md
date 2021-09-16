@@ -13,4 +13,7 @@ classes: wide
 
 1. **Bozhilova, L. V.**, Whitmore, A. V., Wray, J., Reinert, G., & Deane, C. M. (2019). [Measuring rank robustness in scored protein interaction networks.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3036-6) _BMC Bioinformatics_, 20(1), 446.
     - [ISMB 2019 poster](/assets/images/LVB_ISMB.png)
-    
+
+## Doctoral thesis
+
+**Bozhilova, L. V.** (2019). [Confidence in protein interaction networks](https://ora.ox.ac.uk/objects/uuid:c28f1db6-0ce8-4d36-8bea-2ed310cbdb25) (Doctoral dissertation, University of Oxford).
