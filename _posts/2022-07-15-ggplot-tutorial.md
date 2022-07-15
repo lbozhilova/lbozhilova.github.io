@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "`ggplot2` tutorial"
 categories:
   - Blog
