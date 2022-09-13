@@ -14,6 +14,14 @@ classes: wide
 1. **Bozhilova, L. V.**, Whitmore, A. V., Wray, J., Reinert, G., & Deane, C. M. (2019). [Measuring rank robustness in scored protein interaction networks.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3036-6) _BMC Bioinformatics_, 20(1), 446.
     - [ISMB 2019 poster](/assets/images/LVB_ISMB.png)
 
+## Preprints
+
+1. Kremer, L. S., **Bozhilova, L. V.**, Rubalcava-Gracia, D., Filograna, R., Upadhyay, M., Koolmeister, C., ... & Larsson, N. G. (2022). [A role for BCL2L13 and autophagy in germline purifying selection of mtDNA.](https://www.biorxiv.org/content/10.1101/2022.09.02.506367v1.abstract) _bioRxiv_.
+    - [Data and code](https://github.com/lbozhilova/bcl2l13-mtdna-selection)
+
+1. **Bozhilova, L. V.**, Grindrod, P., Reinert, G., & Temcinas, T. (2022). [Principles and consequences of evolutionary ’omic development: a topological perspective.](https://www.researchgate.net/profile/Peter-Grindrod/publication/361212687_Principles_and_Consequences_of_Evolutionary_'Omic_Development_a_Topological_Perspective/links/62a33a626886635d5cce49e2/Principles-and-Consequences-of-Evolutionary-Omic-Development-a-Topological-Perspective.pdf) _researchgate.net_
+
+
 ## Doctoral thesis
 
-**Bozhilova, L. V.** (2019). [Confidence in protein interaction networks](https://ora.ox.ac.uk/objects/uuid:c28f1db6-0ce8-4d36-8bea-2ed310cbdb25) (Doctoral dissertation, University of Oxford).
+**Bozhilova, L. V.** (2019). [Confidence in protein interaction networks](https://ora.ox.ac.uk/objects/uuid:c28f1db6-0ce8-4d36-8bea-2ed310cbdb25), University of Oxford.
