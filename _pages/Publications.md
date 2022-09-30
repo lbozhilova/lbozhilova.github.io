@@ -18,6 +18,7 @@ classes: wide
 
 1. Kremer, L. S., **Bozhilova, L. V.**, Rubalcava-Gracia, D., Filograna, R., Upadhyay, M., Koolmeister, C., ... & Larsson, N. G. (2022). [A role for BCL2L13 and autophagy in germline purifying selection of mtDNA.](https://www.biorxiv.org/content/10.1101/2022.09.02.506367v1.abstract) _bioRxiv_.
     - [Data and code](https://github.com/lbozhilova/bcl2l13-mtdna-selection)
+    - [2022 MRC MBU Symposium poster](/assets/pdfs/poster_LyubaBozhilova_MBUSymp_2022.pdf)
 
 1. **Bozhilova, L. V.**, Grindrod, P., Reinert, G., & Temcinas, T. (2022). [Principles and consequences of evolutionary ’omic development: a topological perspective.](https://www.researchgate.net/profile/Peter-Grindrod/publication/361212687_Principles_and_Consequences_of_Evolutionary_'Omic_Development_a_Topological_Perspective/links/62a33a626886635d5cce49e2/Principles-and-Consequences-of-Evolutionary-Omic-Development-a-Topological-Perspective.pdf) _researchgate.net_
 
