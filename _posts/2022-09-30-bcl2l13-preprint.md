@@ -17,7 +17,7 @@ Most mammalian cells have hundreds to thousands of copies of mtDNA, which are co
 
 Curiously, despite mtDNA being inherited matrilineally and without any recombination, offspring can have _very_ different heteroplasmy levels compared to their mother. This has obvious clinical implications: a woman can be a healthy low-heteroplasmy mutation carrier, and her children may nevertheless develop severe mitochondrial disease. [Mitochondrial donation treatment](https://www.hfea.gov.uk/treatments/embryo-testing-and-treatments-for-disease/mitochondrial-donation-treatment/), a form of IVF where mitochondria from a healthy donor are used to create "three-parent babies", is one possible therapeutic intervention to avoid passing on mitochondrial disease. A better understanding of heteroplasmy and how and why it changes over time, as well as from mother to offspring, could one day result in new and more widely available treatment avenues.
 
-We understand some of the mechanisms involved in mtDNA inheritance, but a lot remains unknown ([Zhang et al., 2018](https://portlandpress.com/essaysbiochem/article/62/3/225/78534/The-mitochondrial-DNA-genetic-bottleneck)). Selection against an mtDNA mutation could be the product of a wide range of biological processes, both at the organellar and at the cellular level. In this paper we wanted to investigate how autophagy, in the form of preferential degradation of mutant mtDNA, might play a role in purifying selection of mtDNA in the germline. To do so, Laura came up with a genetic knockout experiment focussing on four different autophagy genes.
+We understand some of the mechanisms involved in mtDNA inheritance, but a lot remains unknown ([Zhang _et al._, 2018](https://portlandpress.com/essaysbiochem/article/62/3/225/78534/The-mitochondrial-DNA-genetic-bottleneck)). Selection against an mtDNA mutation could be the product of a wide range of biological processes, both at the organellar and at the cellular level. In this paper we wanted to investigate how autophagy, in the form of preferential degradation of mutant mtDNA, might play a role in purifying selection of mtDNA in the germline. To do so, Laura came up with a genetic knockout experiment focussing on four different autophagy genes.
 
 ## Experimental setup
 
@@ -29,7 +29,7 @@ To see whether this happens for our four autophagy genes, Laura and colleagues d
 
 ## So what did we find?
 
-Above I implied we would be comparing knockout pups to controls, which is not quite right. Instead of comparing the pups, what we wanted to compare were the mother-to-pup changes. We know control pups have on average lower heteroplasmy than their mothers. We wanted to know whether the same change is observed for the knockout mice. To do this we worked with a quantity called normalised heteroplasmy shift ([Burgstaller _et al., 2018](https://www.nature.com/articles/s41467-018-04797-2)):
+Above I implied we would be comparing knockout pups to controls, which is not quite right. Instead of comparing the pups, what we wanted to compare were the mother-to-pup changes. We know control pups have on average lower heteroplasmy than their mothers. We wanted to know whether the same change is observed for the knockout mice. To do this we worked with a quantity called normalised heteroplasmy shift ([Burgstaller _et al._, 2018](https://www.nature.com/articles/s41467-018-04797-2)):
 
 $$nH = logit(H_{pup}) - logit(H_{mother})$$.
 
