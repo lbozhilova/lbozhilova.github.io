@@ -64,7 +64,7 @@ I think the same applies to code. Notebooks are _fantastic_. They can make code 
 
 In my experience there are two types of notebooks out there: tutorials, and casual everyday Jupyter notebooks for people who work in Python. No offence to my Python colleagues but the text in the latter is most often either missing or rather sparse. Tutorials can suffer from the opposite problem. Despite the significant effort which goes into writing them, most of the time only a small proportion of tutorial users read the text. They tend to skip it altogether.
 
-What is worse, and especially with `.Rmd` notebooks, you cannot expect people to download the interactive notebook, or even to necessarily copy and paste code along. They might not know how to, for one, as often only a static HTML or PDF version is directly shared. Moreover, people freak out at unfamiliar file extensions, and insitinctively pick ones we are familiar with. A lot of the time, they retype the code, sometimes directly in the console and not in a file to be saved for later. This process is usually frustrating, inefficient, and provides little long-term understanding.
+What is worse, and especially with `.Rmd` notebooks, you cannot expect people to download the interactive notebook, or even to necessarily copy and paste code along. They might not know how to, for one, as often only a static HTML or PDF version is directly shared. Moreover, people freak out at unfamiliar file extensions, and insitinctively pick ones they are familiar with. A lot of the time, they retype the code, sometimes directly in the console and not in a file to be saved for later. This process is usually frustrating, inefficient, and provides little long-term understanding.
 
 I originally thought I might be a bit of a grumpy outlier about this, but speaking to a bunch of people who code in various fields, we were all in agreement: if you want anything read, your best strategy is to leave it as an inline comment in a plain script.
 
@@ -134,7 +134,7 @@ R allows us to write code in sections naturally, as it is not a compiled languag
 # Modular code
 
 We use R for data analysis and in my head, the easiest way to think about the modularity of code is to think about different stages of the data. In this script, there are three main sections that "do stuff":
-- `#----- Load data` starts with the three .csv files of raw data and ends with a single merged data frame `df`, containing all relevant information,
+- `#----- Load data` starts with the three `.csv` files of raw data and ends with a single merged data frame `df`, containing all relevant information,
 - `#----- Process data` takes `df` and enriches it with additional computed columns, and
 - `#----- Summary statistics` uses the enriched `df` to calculate summary statistics which later appear in the manuscript.
 
@@ -155,7 +155,7 @@ The second benefit of numbered scripts is numbered output. This is something I s
 Other style guide-adjacent things I tend to do include:
 - using underscores instead of camel case (`day_one`, not `dayOne`),
 - systematic indentation and generous spacing (`(a + b) * c`, not `(a+ b)*c`),
-- adding data types to variables (`oocytes_df` for a data frame, and `pgc_df_lt` for a list of data frames), and
+- adding data types to variable names (`oocytes_df` for a data frame, and `pgc_df_lt` for a list of data frames), and
 - using verbs in function names (`calculate_shift()`, not `shift()`).
 
 However, I should stress the key thing here is not following one particular set of rules and conventions, but rather having a set of rules to follow. More than anything, it is consistency that helps with clarity.
@@ -164,6 +164,6 @@ However, I should stress the key thing here is not following one particular set 
 
 This ended up being a bit of a ramble, so thank you for sticking with me so far. Perhaps my writing could use a style guide...
 
-I hope this post helped remind you that code, like maths, can be intimidating for those who do not use it regularly. I also hope that it convinced you that it is on us to be aware of that when programming, especially when our audience is significantly less experienced than us. There are some ways in which inexperienced coders differ from experienced ones, e.g. in how they approach documentation. We can choose to act on these differences and make their lives easier. There are also ways in which good code is universally good for everyone. Writing modularly, and following a consistent style are good examples of this. And, you know, making sure our code does what it says on the tin...
+I hope this post helped remind you that code, like maths, can be intimidating for those who do not use it regularly. I also hope that it convinced you that it is on us to be aware of this when programming, especially when our audience is significantly less experienced than us. There are some ways in which inexperienced coders differ from experienced ones, e.g. in how they approach documentation. We can choose to act on these differences and make their lives easier. There are also ways in which good code is universally good for everyone. Writing modularly, and following a consistent style are good examples of this. And, you know, making sure our code does what it says on the tin...
 
 Before I sign off, special thanks to Laura Kremer, Tom Barton-Owen, Fei Gao, Malwina Prater, and Shafiqur Rahman for helpful discussions on this topic. And to everyone at the workshop who nodded in agreement. I love a bit of validation.
