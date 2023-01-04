@@ -6,6 +6,12 @@ classes: wide
 
 ## Peer-reviewed
 
+1. Burr, S., Klimm, F., Glynos, A., Prater, M., Sendon, P., Nash, P., Powell, C., Simard, M., Bonekamp, N., Charl, J., Diaz, H., **Bozhilova, L. V.**, Nie, N., Zhang, H., Frison, M., Falkenberg, M., Minczuk, M., Jones, N., Stewart, J., Chinnery, P. (2023) Cell lineage specific mitochondrial resilience during mammalian organogenesis. _accepted in Cell._
+
+1. Kremer, L. S., **Bozhilova, L. V.**, Rubalcava-Gracia, D., Filograna, R., Upadhyay, M., Koolmeister, C., ... & Larsson, N. G. (2022). [A role for BCL2L13 and autophagy in germline purifying selection of mtDNA.](https://www.biorxiv.org/content/10.1101/2022.09.02.506367v1.abstract) _accepted in PLOS Genetics_.
+    - [Data and code](https://github.com/lbozhilova/bcl2l13-mtdna-selection)
+    - [2022 MRC MBU Symposium poster](/assets/pdfs/poster_LyubaBozhilova_MBUSymp_2022.pdf)
+
 1. Pardo-Diaz, J., **Bozhilova, L. V.**, Beguerisse-Diaz, M., Poole, P. S., Deane, C. M., & Reinert, G. (2021). [Robust gene coexpression networks using signed distance correlation.](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab041/6125359) _Bioinformatics_.
 
 1. **Bozhilova, L. V.**, Pardo-Diaz, J., Reinert, G., & Deane, C. M. (2020). [COGENT: evaluating the consistency of gene co-expression networks.](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa787/5906022) _Bioinformatics_.
@@ -15,10 +21,6 @@ classes: wide
     - [ISMB 2019 poster](/assets/images/LVB_ISMB.png)
 
 ## Preprints
-
-1. Kremer, L. S., **Bozhilova, L. V.**, Rubalcava-Gracia, D., Filograna, R., Upadhyay, M., Koolmeister, C., ... & Larsson, N. G. (2022). [A role for BCL2L13 and autophagy in germline purifying selection of mtDNA.](https://www.biorxiv.org/content/10.1101/2022.09.02.506367v1.abstract) _bioRxiv_.
-    - [Data and code](https://github.com/lbozhilova/bcl2l13-mtdna-selection)
-    - [2022 MRC MBU Symposium poster](/assets/pdfs/poster_LyubaBozhilova_MBUSymp_2022.pdf)
 
 1. **Bozhilova, L. V.**, Grindrod, P., Reinert, G., & Temcinas, T. (2022). [Principles and consequences of evolutionary ’omic development: a topological perspective.](https://www.researchgate.net/profile/Peter-Grindrod/publication/361212687_Principles_and_Consequences_of_Evolutionary_'Omic_Development_a_Topological_Perspective/links/62a33a626886635d5cce49e2/Principles-and-Consequences-of-Evolutionary-Omic-Development-a-Topological-Perspective.pdf) _researchgate.net_
 
