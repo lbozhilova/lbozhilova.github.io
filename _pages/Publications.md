@@ -6,7 +6,7 @@ classes: wide
 
 ## Peer-reviewed
 
-1. Burr, S., Klimm, F., Glynos, A., Prater, M., Sendon, P., Nash, P., Powell, C., Simard, M., Bonekamp, N., Charl, J., Diaz, H., **Bozhilova, L. V.**, Nie, N., Zhang, H., Frison, M., Falkenberg, M., Minczuk, M., Jones, N., Stewart, J., Chinnery, P. (2023) Cell lineage specific mitochondrial resilience during mammalian organogenesis. _accepted in Cell._
+1. Burr, S., Klimm, F., Glynos, A., Prater, M., Sendon, P., Nash, P., Powell, C. A., Simard, M., Bonekamp, N. A., Charl, J., Diaz, H., **Bozhilova, L. V.**, Nie, Y., Zhang, H., Frison, M., Falkenberg, M., Minczuk, M., Jones, N., Stewart, J. B., Chinnery, P. F. (2023) [Cell lineage specific mitochondrial resilience during mammalian organogenesis.](https://www.cell.com/cell/fulltext/S0092-8674(23)00093-4?rss=yes&utm_source=dlvr.it&utm_medium=twitter#) _Cell._
 
 1. Kremer, L. S., **Bozhilova, L. V.**, Rubalcava-Gracia, D., Filograna, R., Upadhyay, M., Koolmeister, C., ... & Larsson, N. G. (2023). [A role for BCL2L13 and autophagy in germline purifying selection of mtDNA.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010573) _PLOS Genetics_.
     - [Data and code](https://github.com/lbozhilova/bcl2l13-mtdna-selection)
