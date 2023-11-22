@@ -6,8 +6,10 @@ layout: single
 author_profile: true
 ---
 
-I'm a bioinformatician with a keen interest in how experimental error and data uncertainty affect what we can and cannot infer from biological data. I'm currently working as a postdoc in [Patrick Chinnery's lab](http://www.mrc-mbu.cam.ac.uk/people/patrick-chinnery) at the MRC Mitochondrial Biology Unit, University of Cambridge, where I study mtDNA heteroplasmy.
+I am a data scientist with a keen interest in how experimental error and uncertainty affect what we can and cannot infer from biomedical data. I am currently working as a postdoc in [Oxford Labour Monitoring](https://www.wrh.ox.ac.uk/research/oxfordlabourmonitoringgroup) in the Nuffield Department of Women's & Reproductive Health, University of Oxford. I study the clinical risk factors associated with fetal distress and brain injury during labour. 
 
-Before  my current role I was a departmental lecturer at the Department of Statistics, University of Oxford. There I studied publication bias in protein–protein interaction data and supervised MSc research projects. In the past I have also worked in the biotech industry. I completed my PhD in 2020 at the University of Oxford, where I was supervised by [Gesine Reinert](http://www.stats.ox.ac.uk/~reinert/) and [Charlotte Deane](http://www.stats.ox.ac.uk/~deane/#). As a PhD student I was part of the [Systems Approaches to Biomedical Science CDT](https://www.sabsr3.ox.ac.uk/home) and worked in collaboration with [e-therapeutics plc](https://www.etherapeutics.co.uk/).
+Before my current role, I was in [Patrick Chinnery's lab](https://www.mrc-mbu.cam.ac.uk/research-groups/chinnery-group) at the MRC Mitochondrial Biology Unit, University of Cambridge, where I worked on mtDNA heteroplasmy. And before that, I spent a number of years in the Department of Statistics at Oxford, first as a student and later as a lecturer, mostly thinking about protein interaction networks. While I am now excited to be working with large-scale maternity healthcare data, I do retain a research interest in both mitochondrial genetics and biological networks.
 
-In addition to research, over the years I've been involved in a range of teaching and outreach efforts, as well as ED&I initiatives. Most recently I joined the MBU’s Wellbeing, Inclusion, Diversity and Equality (MBU WIDE) committee.
+In addition to research, over the years I have been involved in a range of teaching and outreach efforts, as well as ED&I initiatives. Do get in touch if you want to chat about any of these!
+
+Finally, I spend far too much of my free time trail running, which I approach with the enthusiasm of a five year old: all a girl needs is some puddles to splash in, and an ice cream after.
